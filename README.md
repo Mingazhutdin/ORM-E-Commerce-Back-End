@@ -236,6 +236,8 @@ This Challenge is graded based on the following criteria:
 
   - Includes model associations outlined in the Challenge instructions.
 
+### Video Link: <iframe src="https://drive.google.com/file/d/1gF0Q-3Hb3KkVUtFKgpEJZ4TAUnkKxSM7/preview" width="640" height="480"></iframe>
+
 ### Repository Quality: 13%
 
 - Repository has a unique name.
